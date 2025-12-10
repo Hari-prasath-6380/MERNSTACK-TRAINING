@@ -1,0 +1,2 @@
+
+This content is wrote using append file method
